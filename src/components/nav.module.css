@@ -1,0 +1,16 @@
+header{
+    padding-top: 30px;
+    padding-bottom: 90px;
+    background-color: rgb(28, 103, 124);
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   font-size: 20px;
+   
+
+}
+
+header:hover{
+    color: red;
+}
+
